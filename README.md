@@ -3,17 +3,10 @@
 
 #### For each GHES version listed, the self-validation of the partner product should show exactly one of: { PASS, FAIL, UNTESTED }
 
-| Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.3 | GHES 3.2 | GHES 3.1 | Partner Support Site | Documentation | Marketing/Product Site |
+| Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.3 | GHES 3.2 | GHES 3.1 | Partner Support Site | Docs Site | Marketing/Product Site |
 |---|---|---|---|---|---|---|---|
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-|   |   | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
