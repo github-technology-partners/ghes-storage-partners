@@ -8,7 +8,7 @@
 
 | Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.3 | GHES 3.2 | GHES 3.1 | Partner Support Site | Docs Site | Marketing/Product Site |
 |---|---|---|---|---|---|---|---|
-| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+| My Partner Company  | Storage Product v1.2 | UNTESTED | PASS | PASS | [support](https://my-partner-co.com/support) | [docs](https://my-partner-co.com/docs) | [info](https://my-partner-co.com/products/storage-product.html) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
