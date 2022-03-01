@@ -8,7 +8,7 @@
 
 | Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.3 | GHES 3.2 | GHES 3.1 | Partner Support Site | Docs Site | Marketing/Product Site |
 |---|---|---|---|---|---|---|---|
-| My Partner Company  | Storage Product v1.2 | UNTESTED | PASS | PASS | [support](https://my-partner-co.com/support) | [docs](https://my-partner-co.com/docs) | [info](https://my-partner-co.com/products/storage-product.html) |
+| Hitachi Vantara  | HCP Cloud Scale v2.3 | PASS | PASS | PASS | [support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [docs](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [info](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
