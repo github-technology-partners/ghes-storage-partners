@@ -1,8 +1,7 @@
-# GHES Storage Partners
-### Partners listed below self-validated their storage product(s) with GHES Actions & Packages using their storage product's S3-compatible interface and a GitHub-provided test suite for each GHES version tested.
 ![GitHub-Mark-Light-120px-plus](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-120px-plus](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
 
-> NOTE: GHES Storage Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GHES Storage Partners or their storage product(s). The data is provided as-is.
+# GHES Storage Partners
+### Partners listed below self-validated their storage product(s) with GHES Actions & Packages using their storage product's S3-compatible interface and a GitHub-provided test suite for each GHES version tested.
 
 #### For each GHES version listed, the self-validation of the partner product should show exactly one of: { PASS, FAIL, UNTESTED }
 
@@ -13,3 +12,12 @@
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
 | <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+
+  
+#### Requirements:
+- All GHES Storage Partners are members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners)
+- Test and submit storage compatibility within 30 days of [new GHES version GA release](https://docs.github.com/en/enterprise-server/admin/release-notes)
+- Maintain user documentation
+- Commitment to support joint users/customers
+  
+> Note: GHES Storage Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GHES Storage Partners or their storage product(s). The data is provided as-is.
