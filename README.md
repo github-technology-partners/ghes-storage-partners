@@ -16,7 +16,7 @@
   
 #### Requirements:
 - All GHES Storage Partners are members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners)
-- Test and submit storage compatibility within 30 days of [new GHES version GA release](https://docs.github.com/en/enterprise-server/admin/release-notes)
+- [Test and submit storage compatibility](https://github.com/github-technology-partners/enterprise-storage-check)(private repo) within 30 days of [new GHES version GA release](https://docs.github.com/en/enterprise-server/admin/release-notes)
 - Maintain user documentation
 - Commitment to support joint users/customers
   
