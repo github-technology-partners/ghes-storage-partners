@@ -1,23 +1,24 @@
-![GitHub-Mark-Light-120px-plus](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-120px-plus](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+![158236141-65111130-2c3a-498f-bc94-72fe2dab5352](https://user-images.githubusercontent.com/54083068/158707540-7e08b789-475d-4a3f-800a-c0197412cf53.png)
+
 
 # GHES Storage Partners
-### Partners listed below self-validated their storage product(s) with GHES Actions & Packages using their storage product's S3-compatible interface and a GitHub-provided test suite for each GHES version tested.
+GHES Storage Partners provide GitHub customers additional storage options to run GitHub Actions and GitHub Packages on GHES.
 
-#### For each GHES version listed, the self-validation of the partner product should show exactly one of: { PASS, FAIL, UNTESTED }
+Partners that join the [GitHub Technology Partnership Program](https://partner.github.com/technology-partners) have the opportunity to self-validate their solutions.
+GitHub will provide a self service test suite to validate storage product's S3-compatiable interface for each GHES version.
 
-| Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.4 | GHES 3.3 | GHES 3.2 | GHES 3.1 | Partner Support Site | Docs Site | Marketing/Product Site |
-|---|---|---|---|---|---|---|---|---|
-| Hitachi Vantara  | HCP Cloud Scale v2.3 | UNTESTED | PASS | PASS | PASS | [support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [docs](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [info](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
-| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
-| <name>  | <prod> | UNTESTED | UNTESTED | UNTESTED | UNTESTED | [support](https://) | [docs](https://) | [info](https://) |
+`Disclaimer`: GHES Storage Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GHES Storage Partners or their storage product(s). The data is provided as-is.
 
-  
-#### Requirements:
-- All GHES Storage Partners are members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners)
-- [Test and submit storage compatibility](https://github.com/github-technology-partners/enterprise-storage-check)(private repo) within 30 days of [new GHES version GA release](https://docs.github.com/en/enterprise-server/admin/release-notes)
-- Maintain user documentation
-- Commitment to support joint users/customers
-  
-> Note: GHES Storage Partners conduct all tests and self-report the data in this repository. GitHub does not independently verify the data, but expects that partners provide it in good faith. GitHub makes no express or implied representations, guarantees or warranties concerning GHES Storage Partners or their storage product(s). The data is provided as-is.
+
+# Self-validated Solutions
+
+| Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.4 | GHES 3.3 | GHES 3.2 | GHES 3.1 |  Support |  Documentation| Product Information |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hitachi Vantara  | HCP Cloud Scale v2.3 | UNTESTED | **PASS** | **PASS**  | **PASS**  | [Hitachi Support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [Hitachi Knowledge](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [Hitachi Object Storage](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
+
+
+# Requirements:
+- GHES Storage Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
+- Partners will be granted access and must [test and submit storage compatibility](https://github.com/github-technology-partners/enterprise-storage-check)(private repo) within 30 days of [new GHES version GA release.](https://docs.github.com/en/enterprise-server/admin/release-notes)
+- Partners must maintain user documentation.
+- Partners must commit to support joint users/customers.
