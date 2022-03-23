@@ -19,6 +19,6 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 
 # Requirements:
 - GHES Storage Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
-- Partners will be granted access and must [test and submit storage compatibility](https://github.com/github-technology-partners/enterprise-storage-check) within 30 days of [new GHES version GA release.](https://docs.github.com/en/enterprise-server/admin/release-notes)
+- Partners will be granted access and must [test and submit storage compatibility](https://github.com/github-technology-partners/enterprise-storage-check)(private repo) within 30 days of [new GHES version GA release.](https://docs.github.com/en/enterprise-server/admin/release-notes)
 - Partners must maintain user documentation.
 - Partners must commit to support joint users/customers.
