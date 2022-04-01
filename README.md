@@ -14,7 +14,7 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 
 | Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.4 | GHES 3.3 | GHES 3.2 | GHES 3.1 |  Support |  Documentation| Product Information |
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hitachi Vantara  | HCP Cloud Scale v2.3 | **PASS** | **PASS** | **PASS**  | **PASS**  | [Hitachi Support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [Hitachi Knowledge](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [Hitachi Object Storage](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
+| Hitachi Vantara  | HCP Cloud Scale v2.4.1.2 | **PASS** | **PASS** | **PASS**  | **PASS**  | [Hitachi Support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [Hitachi Knowledge](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [Hitachi Object Storage](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
 
 
 # Requirements:
