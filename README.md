@@ -2,7 +2,7 @@
 
 
 # GHES Storage Partners
-GHES Storage Partners provide GitHub customers additional storage options to run GitHub Actions and GitHub Packages on GHES.
+GHES Storage Partners provide GitHub customers additional storage options to run GitHub Actions and GitHub Packages on GHES. These partnerships extend beyond the [current capabilities](https://docs.github.com/en/enterprise-server@3.4/admin/github-actions/enabling-github-actions-for-github-enterprise-server) at enabling GitHub Actions for GHES.
 
 Partners that join the [GitHub Technology Partnership Program](https://partner.github.com/technology-partners) have the opportunity to self-validate their solutions.
 GitHub will provide a self service test suite to validate storage product's S3-compatiable interface for each GHES version.
