@@ -12,12 +12,12 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 
 # Self-validated Solutions
 
-| Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.5 | GHES 3.4 | GHES 3.3 | GHES 3.2 | GHES 3.1 |  Support |  Documentation| Product Information |
-|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hitachi Vantara  | HCP Cloud Scale v2.4.1.2 | | **PASS** | **PASS** | **PASS**  | **PASS**  | [Hitachi Support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [Hitachi Knowledge](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [Hitachi Object Storage](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
-| MinIO | Software Defined Object Storage | | **PASS** | **PASS** | **PASS** | **PASS** | [MinIO Subscription Network](https://min.io/product/subnet) | [MinIO Knowledge Base](https://docs.min.io/minio/k8s/) | [MinIO Object Storage](https://docs.min.io/minio/baremetal/) |
-| Pure Storage | FlashBlade | | **PASS** | **PASS** | **PASS** | **PASS** | [Pure Storage Support](https://support.purestorage.com/FlashBlade) | [Pure Storage Knowledge](https://support.purestorage.com/FlashBlade/Purity_FB/FlashBlade_User_Guides) | [Pure Storage Unified Fast File Object](https://www.purestorage.com/products/file-and-object/flashblade.html) |
-| Cloudian | HyperStore | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | [Cloudian Support](https://cloudian.com/support/) | <small>Docs are private (in product), use support if you don't have access yet</small> | [HyperStore Object Storage](https://cloudian.com/products/hyperstore/l) |
+| Partner<br />(A-Z) | Product<br />(one per row) | GHES 3.5 |  GHES 3.1-3.4 |  Support |  Documentation| Product Information |
+|---|---|:---:|:---:|:---:|:---:|:---:|
+| Hitachi Vantara  | HCP Cloud Scale v2.4.1.2 | |  **PASS**  | [Hitachi Support](https://support.hitachivantara.com/en/anonymous-dashboard.html) | [Hitachi Knowledge](https://knowledge.hitachivantara.com/Documents/Storage/HCP_for_Cloud_Scale) | [Hitachi Object Storage](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) |
+| MinIO | Software Defined Object Storage | |  **PASS**  | [MinIO Subscription Network](https://min.io/product/subnet) | [MinIO Knowledge Base](https://docs.min.io/minio/k8s/) | [MinIO Object Storage](https://docs.min.io/minio/baremetal/) |
+| Pure Storage | FlashBlade| |  **PASS**  | [Pure Storage Support](https://support.purestorage.com/FlashBlade) | [Pure Storage Knowledge](https://support.purestorage.com/FlashBlade/Purity_FB/FlashBlade_User_Guides) | [Pure Storage Unified Fast File Object](https://www.purestorage.com/products/file-and-object/flashblade.html) |
+| Cloudian | HyperStore | **PASS** | **PASS** | [Cloudian Support](https://cloudian.com/support/) | <small>Docs are private (in product), use support if you don't have access yet</small> | [HyperStore Object Storage](https://cloudian.com/products/hyperstore/l) |
 
 # Requirements:
 - GHES Storage Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
