@@ -18,6 +18,7 @@ GitHub will provide a self service test suite to validate storage product's S3-c
 | MinIO | Software Defined Object Storage | **PASS** |  **PASS**  | [MinIO Subscription Network](https://min.io/product/subnet) | [MinIO Knowledge Base](https://docs.min.io/minio/k8s/) | [MinIO Object Storage](https://docs.min.io/minio/baremetal/) |
 | Pure Storage | FlashBlade| |  **PASS**  | [Pure Storage Support](https://support.purestorage.com/FlashBlade) | [Pure Storage Knowledge](https://support.purestorage.com/FlashBlade/Purity_FB/FlashBlade_User_Guides) | [Pure Storage Unified Fast File Object](https://www.purestorage.com/products/file-and-object/flashblade.html) |
 | Cloudian | HyperStore | **PASS** | **PASS** | [Cloudian Support](https://cloudian.com/support/) | <small>Docs are private (in product), use support if you don't have access yet</small> | [HyperStore Object Storage](https://cloudian.com/products/hyperstore/l) |
+| NetApp | NetApp | **PASS** | **PASS** | TBD |TBD | TBD |
 
 # Requirements:
 - GHES Storage Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
