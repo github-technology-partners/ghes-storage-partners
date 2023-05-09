@@ -1,5 +1,7 @@
 ![158236141-65111130-2c3a-498f-bc94-72fe2dab5352](https://user-images.githubusercontent.com/54083068/158707540-7e08b789-475d-4a3f-800a-c0197412cf53.png)
 
+# 🚨 GHES Storage Program Paused
+**Important Notice:** The GHES Storage Program is currently paused, and partners are only able to validate up to 3.7 at this time. If partners encounter any issues with the self-check, GitHub will be unable to provide support since the program is currently paused.
 
 # GHES Storage Partners
 GHES Storage Partners provide GitHub customers additional storage options to run GitHub Actions and GitHub Packages on GHES. These partnerships extend beyond the [current capabilities](https://docs.github.com/en/enterprise-server@3.4/admin/github-actions/enabling-github-actions-for-github-enterprise-server) at enabling GitHub Actions for GHES.
