@@ -1,6 +1,6 @@
 ![158236141-65111130-2c3a-498f-bc94-72fe2dab5352](https://user-images.githubusercontent.com/54083068/158707540-7e08b789-475d-4a3f-800a-c0197412cf53.png)
 
-# 🚨 GHES Storage Program Paused
+# GHES Storage Program 
 
 **Important Notice:** The GHES Storage Program is currently paused, and partners are only able to validate up to GHES 3.7 at this time. GitHub is not accepting any new integrations for this program at this time. If partners encounter any issues with the self-check, please contact GitHub.
 
